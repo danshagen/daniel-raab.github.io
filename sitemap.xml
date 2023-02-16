@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://daniel-raab.github.io/</loc>
+    </url>
+    <url>
+        <loc>http://daniel-raab.github.io/about/</loc>
+        <lastmod>2023-02-13</lastmod>
+    </url>
+    <url>
+        <loc>http://daniel-raab.github.io/photos/</loc>
+        <lastmod>2022-08-28</lastmod>
+    </url>
+    <url>
+        <loc>http://daniel-raab.github.io/posts/</loc>
+    </url>
+    <url>
+        <loc>http://daniel-raab.github.io/posts/dall-e-images/</loc>
+        <lastmod>2023-02-15</lastmod>
+    </url>
+</urlset>

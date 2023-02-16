@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Daniel Raab</title>
+	<subtitle>Personal website of Daniel Raab: Blog about programming and photography.</subtitle>
+	<link href="http://daniel-raab.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="http://daniel-raab.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-02-15T00:00:00+00:00</updated>
+	<id>http://daniel-raab.github.io/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Generating images with artificial intelligence: DALL·E 2</title>
+		<published>2023-02-15T00:00:00+00:00</published>
+		<updated>2023-02-15T00:00:00+00:00</updated>
+		<link href="http://daniel-raab.github.io/posts/dall-e-images/" type="text/html"/>
+		<id>http://daniel-raab.github.io/posts/dall-e-images/</id>
+		<content type="html">&lt;p&gt;I am about half a year late to the AI party: &lt;a href=&quot;https:&#x2F;&#x2F;openai.com&#x2F;dall-e-2&#x2F;&quot;&gt;DALL·E 2&lt;&#x2F;a&gt; was made available in the summer of 2022, but only now did I find time to play around with it.
+I read about it on Hacker News and blog articles like &lt;a href=&quot;https:&#x2F;&#x2F;deephaven.io&#x2F;blog&#x2F;2022&#x2F;08&#x2F;08&#x2F;AI-generated-blog-thumbnails&#x2F;%3E&quot;&gt;I replaced all our blog thumbnails using DALL·E 2 for $45: here’s what I learned&lt;&#x2F;a&gt; and recently a friend renewed my interest.
+So I used all my free credits and then some playing around.
+Here are the results that I like the most (you can see the prompt by hovering with the mouse):&lt;&#x2F;p&gt;
+&lt;div class=&quot;grid&quot;&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 17.45.15 - A victorian hunting dog smoking a pipe, in the style of Rembrandt van Rijn.png&quot; title=&quot;A victorian hunting dog smoking a pipe, in the style of Rembrandt van Rijn&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 16.25.27 - A victorian hunting dog smoking a pipe, in the style of Rembrandt van Rijn.png&quot; title=&quot;A victorian hunting dog smoking a pipe, in the style of Rembrandt van Rijn&quot;&#x2F;&gt;&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;grid&quot;&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.41.18 - retro tlr camera.png&quot; title=&quot;retro tlr camera&quot;&#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.42.10 - art nouveau retro tlr camera.png&quot; title=&quot;art nouveau retro tlr camera&quot;&#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.42.28.png&quot; title=&quot;art nouveau retro tlr camera — variation&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;grid&quot;&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.43.14 - retro tlr camera as a art art nouveau poster.png&quot; title=&quot;retro tlr camera as a art art nouveau poster&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.43.56.png&quot; title=&quot;retro tlr camera as a art art nouveau poster.png&quot; title=&quot;retro tlr camera as a art art nouveau poster — variation&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;!-- &lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.43.52.png&quot; &#x2F;&gt;&lt;&#x2F;div&gt; --&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.43.47.png&quot; title=&quot;retro tlr camera as a art art nouveau poster.png&quot; title=&quot;retro tlr camera as a art art nouveau poster — variation&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.43.42.png&quot; title=&quot;retro tlr camera as a art art nouveau poster.png&quot; title=&quot;retro tlr camera as a art art nouveau poster — variation&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;grid&quot;&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.44.34 - monstera plant art noveau poster.png&quot; title=&quot;monstera plant art noveau poster&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 21.54.49 - a brown cocker spaniel art noveau poster.png&quot; title=&quot;a brown cocker spaniel art noveau poster&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;grid&quot;&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.44.39 - monstera plant art noveau poster.png&quot; title=&quot;monstera plant art noveau poster&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.44.41 - monstera plant art noveau poster.png&quot; title=&quot;monstera plant art noveau poster&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.44.45 - monstera plant art noveau poster.png&quot; title=&quot;monstera plant art noveau poster&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;grid&quot;&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.18.14 - pine cone, art nouveau poster.png&quot; title=&quot;pine cone, art nouveau poster&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.18.23 - pine cone, art nouveau poster.png&quot; title=&quot;pine cone, art nouveau poster&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.18.29 - pine cone, art nouveau poster.png&quot; title=&quot;pine cone, art nouveau poster&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;grid&quot;&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 15.25.12 - greyhound watercolor.png&quot; title=&quot;greyhound watercolor&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 15.21.27 - baby astronaut, pencil and watercolor.png&quot; title=&quot;baby astronaut, pencil and watercolor&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;grid&quot;&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 15.13.08 - dog with baby watercolor.png&quot; title=&quot;dog with baby watercolor&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 15.18.56 - dog running with baby boy watercolor.png&quot; title=&quot;dog running with baby boy watercolor&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 15.18.53 - dog running with baby boy watercolor.png&quot; title=&quot;dog running with baby boy watercolor&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 15.09.56 - cocker spaniel watercolor.png&quot; title=&quot;cocker spaniel watercolor&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;div class=&quot;grid&quot;&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.38.01 - grey hound, pixel art.png&quot; title=&quot;grey hound, pixel art&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 14.37.14 - dachshund, pixel art.png&quot; title=&quot;dachshund, pixel art&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;After enough prompts I learned that it is good to specify an art style.
+The less realistic the style the better for DALL·E because the small errors will not matter too much.
+And generating human faces is still hard and often images will land in the &lt;a href=&quot;https:&#x2F;&#x2F;youtu.be&#x2F;PEikGKDVsCc&quot;&gt;&amp;quot;uncanny valley&amp;quot; and become creepy&lt;&#x2F;a&gt;.
+Without a specific art style, the results are often very cartoony:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;daniel-raab.github.io&#x2F;posts&#x2F;dall-e-images&#x2F;Screenshot_corgis_in_space.png&quot; alt=&quot;Screenshot of the DALL·E prompt with corgis in space&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;So a prompt for the style of Vincent van Gogh works quite well:&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;http:&#x2F;&#x2F;daniel-raab.github.io&#x2F;posts&#x2F;dall-e-images&#x2F;screenshot_cocker_spaniel_van_gogh.png&quot; alt=&quot;Screenshot of the DALL·E prompt with cocker spaniels by Vincent van Gogh&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;!-- 
+## Funny Greyhound
+
+&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 15.12.21 - greyhound as a cyclist.png&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+&lt;div class=&quot;grid&quot;&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 15.11.31 - hipster greyhound.png&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 15.11.36 - hipster greyhound.png&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 15.11.50 - hipster greyhound poster.png&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 15.11.55 - hipster greyhound poster.png&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+	&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 15.11.59 - hipster greyhound poster.png&quot; &#x2F;&gt;&lt;&#x2F;div&gt;
+&lt;&#x2F;div&gt;
+
+## Leipzig
+
+&lt;div&gt;&lt;img src=&quot;DALL·E 2023-02-15 15.09.08 - leipzig in art noveau poster.png&quot; &#x2F;&gt;&lt;&#x2F;div&gt; --&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>About</title>
+		<published>2023-02-13T00:00:00+00:00</published>
+		<updated>2023-02-13T00:00:00+00:00</updated>
+		<link href="http://daniel-raab.github.io/about/" type="text/html"/>
+		<id>http://daniel-raab.github.io/about/</id>
+		<content type="html">&lt;div&gt;
+&lt;img src=&quot;&#x2F;dall-e-selfie.png&quot; style=&quot;float: right;height: 250px;margin: 0 0 16px 16px&quot; alt=&quot;Portrait in Art Nouveau style, generated by DALL·E 2&quot; title=&quot;Portrait in Art Nouveau style, generated by DALL·E 2&quot;&#x2F;&gt;
+&lt;p&gt;Hi, my name is Daniel and I am an embedded engineer.
+I also love to take photographs, both digital and analog.
+On this blog I share thoughts and ideas about embedded projects as well as some of my photographs.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;At the moment I am working on my Master&#x27;s thesis at the HTWK Leipzig.
+It is about doing automated testing and continuous integration with embedded systems.
+The title (in german) is:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Automatisertes Testen von eingebetteter Software mit Hardware-in-the-loop Test&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;But outside of work and university I try to find time for personal projects.
+Some of them can be found on my &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;daniel-raab&quot;&gt;github profile&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;If you want, you can contact me at &lt;a href=&quot;mailto:daniel.raab@mailbox.org&quot;&gt;daniel.raab@mailbox.org&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Photography</title>
+		<published>2022-08-28T00:00:00+00:00</published>
+		<updated>2022-08-28T00:00:00+00:00</updated>
+		<link href="http://daniel-raab.github.io/photos/" type="text/html"/>
+		<id>http://daniel-raab.github.io/photos/</id>
+		<content type="html"></content>
+	</entry>
+</feed>
